@@ -7,7 +7,7 @@ The objective of this project was to apply the concept of Homogenous Transformat
 Here's a quick preview!
 
 
-![](ReadMe_Img/Animation_gif.GIF)
+![](ReadMe_Img/Animation.GIF)
 
 
 ### Brief description of the mechanism
@@ -16,15 +16,16 @@ A four bar linkage is connected in parallel with an inverted slider crank mechan
 
 ### Repository Structure
 * Helper funtions
-  * SLider_Shape.m 
+  * Slider_Shape.m 
   * Circle_Circle_Intersection
-* Source Code
-  * SixBarLinkage_Animation.m
-  * Position_diagram.m
+* ReadMe_Img
 * Results (Screenshots and Animation video)
   * Position Diagram - Different angles of inclination (degrees)
     * Theta = 0
     * Theta = 60
   * Different coupler shapes obtained by changing the dimensions of links
   * Animation of the mechanism
+* Source Code
+  * SixBarLinkage_Animation.m
+  * Position_diagram.m
 * README
