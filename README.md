@@ -11,7 +11,9 @@ Here's a quick preview!
 
 
 ### Brief description of the mechanism
-A four bar linkage is connected in parallel with an inverted slider crank mechanism, forming a kinematic chain. Different coupler curves can be obtained by simply changing the geometric lengths of the individual links that form the mechanism.![image](https://user-images.githubusercontent.com/60460452/90776526-d4abc000-e317-11ea-8d03-4a5f71e1ce11.png)
+A four bar linkage is connected in parallel with an inverted slider crank mechanism, forming a kinematic chain. Different coupler curves can be obtained by simply changing the geometric lengths of the individual links that form the mechanism.
+
+![image](https://user-images.githubusercontent.com/60460452/90776526-d4abc000-e317-11ea-8d03-4a5f71e1ce11.png)
 
 
 ### Repository Structure
